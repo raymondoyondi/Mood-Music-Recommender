@@ -35,15 +35,15 @@ You will need a modern web browser and a code editor.
 
 2. **Open the Application:** Since this is a client-side application built with HTML, CSS, and JavaScript, you can run it directly in your browser.
 
--- Locate the index.html file in the root directory.
+   - Locate the index.html file in the root directory.
 
--- Right-click on index.html and select **"Open with" -> [Your Web Browser (e.g., Chrome, Firefox)].**
+   - Right-click on index.html and select **"Open with" -> [Your Web Browser (e.g., Chrome, Firefox)].**
 
 3. **API Key Configuration (Crucial for Functionality):** The app relies on a third-party Music API (e.g., Spotify, SoundCloud) to fetch track data.
 
--- You will need to sign up for an API key from the chosen service.
+   - You will need to sign up for an API key from the chosen service.
 
--- Locate the placeholder configuration file (e.g., `config.js` or within the main JavaScript file) and insert your unique API key and necessary credentials.
+   - Locate the placeholder configuration file (e.g., `config.js` or within the main JavaScript file) and insert your unique API key and necessary credentials.
 
 # 💡 Usage
 
