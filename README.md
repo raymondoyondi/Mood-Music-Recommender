@@ -56,8 +56,8 @@ The Mood Music Recommender is a highly efficient, single-page web application le
 
 | Technology | Role | Key Features |
 | :--- | :--- | :--- |
-| **HTML** | Semantic Structure | Provides the structural framework and content. |
-| **CSS** | Styling & Layout | Used for styling, responsiveness, CSS Variables for theming, and **Flexbox/Grid** for fluid layout. |
+| **HTML5** | Semantic Structure | Provides the structural framework and content. |
+| **CSS3** | Styling & Layout | Used for styling, responsiveness, CSS Variables for theming, and **Flexbox/Grid** for fluid layout. |
 | **JavaScript** | Core Logic Engine | Handles mood-to-API data transformations, dynamic DOM manipulation, and manages the interactive user experience (no heavy frameworks). |
 | **Music API** | Data Source | Necessary external integration for accessing a vast database of music tracks and generating relevant playlists. |
 
