@@ -30,7 +30,7 @@ document.getElementById('music').addEventListener('click', async function(e) {
     }
   }
   else{
-    document.getElementById('mood').placeholder = 'Give me a promt'
+    document.getElementById('mood').placeholder = 'Give me a prompt'
     const shakeAnim = [
       { transform: "translateX(0)" },
       { transform: "translateX(-5px)" },
