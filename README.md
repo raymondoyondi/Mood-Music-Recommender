@@ -25,12 +25,12 @@ You will need a modern web browser and a code editor.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/raymondoyondi/Mood-Music-Recommender.git](https://github.com/raymondoyondi/Mood-Music-Recommender.git)
+    git clone [https://github.com/raymondoyondi/Mood-Based-Music-Recommender.git](https://github.com/raymondoyondi/Mood-Based-Music-Recommender.git)
     ```
 
 2.  **Navigate into the directory:**
     ```bash
-    cd Mood-Music-Recommender
+    cd Mood-Based-Music-Recommender
     ```
 
 3.  **Open the Application:** Since this is a client-side application built with HTML, CSS, and JavaScript, you can run it directly in your browser.
